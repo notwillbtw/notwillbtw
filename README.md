@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @notwillbtw
-- 👀 I’m interested in c# and back end development
-- 🌱 I’m currently learning more in-depth c#
+- 👀 I’m interested in c# and back end development, and a little bit of Ai
+- 🌱 I’m currently learning more in-depth c# and bits about Ai
 - 💞️ I’m looking to collaborate on nothing much atm
 - 📫 How to reach me: email me at either Willrowett@outlook.com or rowettwilliam@gmail.com
 - 😄 Pronouns: he/him
